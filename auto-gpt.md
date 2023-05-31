@@ -78,5 +78,7 @@ Stay up-to-date with the latest news, updates, and insights about [Auto-GPT](htt
 We're excited to explore the future of AI with you!
 
 > Further Readings: Read about [GPT4All](https://docs.kanaries.net/articles/gpt4all)
+> 
 > [Japanese Version AutoGPT Tutorial](https://lauragoodwin2.github.io/auto-gpt-ja)
+> 
 > [Korean Version AutoGPT Tutorial](https://lauragoodwin2.github.io/auto-gpt-ko)
