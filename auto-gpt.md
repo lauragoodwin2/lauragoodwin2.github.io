@@ -82,3 +82,9 @@ We're excited to explore the future of AI with you!
 > [Japanese Version AutoGPT Tutorial](https://lauragoodwin2.github.io/auto-gpt-ja)
 > 
 > [Korean Version AutoGPT Tutorial](https://lauragoodwin2.github.io/auto-gpt-ko)
+
+- [https://wonderful-plant-0c77e2e10.3.azurestaticapps.net/autogpt.html](https://wonderful-plant-0c77e2e10.3.azurestaticapps.net/autogpt.html)
+- [https://autogpt-blog-2.vercel.app/auto-gpt](https://autogpt-blog-2.vercel.app/auto-gpt)
+- [https://lauragoodwin2.github.io/auto-gpt](https://lauragoodwin2.github.io/auto-gpt)
+- [https://data-laura.hashnode.dev/autogpt](https://data-laura.hashnode.dev/autogpt)
+- [https://autogpt-blog.s3.us-east-005.backblazeb2.com/autogpt.html](https://autogpt-blog.s3.us-east-005.backblazeb2.com/autogpt.html)
