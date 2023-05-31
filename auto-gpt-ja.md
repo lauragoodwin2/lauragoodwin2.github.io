@@ -44,8 +44,8 @@ ChatGPTは非常に能力が高いチャットボットですが、それでも�
 
 >その他の読み物：[GPT4All](https://docs.kanaries.net/articles/gpt4all)について読む
 >
->[英語版AutoGPTチュートリアル](https://lauragoodwin2.github.io/auto-gpt)
+> [英語版AutoGPTチュートリアル](https://lauragoodwin2.github.io/auto-gpt)
 >
->[韓国語版AutoGPTチュートリアル](https://lauragoodwin2.github.io/auto-gpt-ko)
+> [韓国語版AutoGPTチュートリアル](https://lauragoodwin2.github.io/auto-gpt-ko)
 >
 > [ChatGPT Code Interpreter](https://docs.kanaries.net/ja/articles/chatgpt-code-interpreter)
