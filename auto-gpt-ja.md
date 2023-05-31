@@ -49,3 +49,9 @@ ChatGPTは非常に能力が高いチャットボットですが、それでも�
 > [韓国語版AutoGPTチュートリアル](https://lauragoodwin2.github.io/auto-gpt-ko)
 >
 > [ChatGPT Code Interpreter](https://docs.kanaries.net/ja/articles/chatgpt-code-interpreter)
+
+- [https://wonderful-plant-0c77e2e10.3.azurestaticapps.net/autogpt-ja.html](https://wonderful-plant-0c77e2e10.3.azurestaticapps.net/autogpt-ja.html)
+- [https://autogpt-blog-2.vercel.app/auto-gpt-ja](https://autogpt-blog-2.vercel.app/auto-gpt-ja)
+- [https://lauragoodwin2.github.io/auto-gpt-ja](https://lauragoodwin2.github.io/auto-gpt-ja)
+- [https://data-laura.hashnode.dev/autogpt-ja](https://data-laura.hashnode.dev/autogpt-ja)
+- [https://autogpt-blog.s3.us-east-005.backblazeb2.com/autogpt-ja.html](https://autogpt-blog.s3.us-east-005.backblazeb2.com/autogpt-ja.html)
