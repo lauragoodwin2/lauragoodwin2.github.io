@@ -50,3 +50,9 @@ ChatGPT는 매우 역량이 높은 채팅봇이지만 여전히 채팅봇에 불
 >[일본어 버전 AutoGPT 튜토리얼](https://lauragoodwin2.github.io/auto-gpt-ja)
 >
 > [ChatGPT Code Interpreter](https://docs.kanaries.net/ko/articles/chatgpt-code-interpreter)
+
+- [https://wonderful-plant-0c77e2e10.3.azurestaticapps.net/autogpt-ko.html](https://wonderful-plant-0c77e2e10.3.azurestaticapps.net/autogpt-ko.html)
+- [https://autogpt-blog-2.vercel.app/auto-gpt-ko](https://autogpt-blog-2.vercel.app/auto-gpt-ko)
+- [https://lauragoodwin2.github.io/auto-gpt-ko](https://lauragoodwin2.github.io/auto-gpt-ko)
+- [https://data-laura.hashnode.dev/autogpt-ko](https://data-laura.hashnode.dev/autogpt-ko)
+- [https://autogpt-blog.s3.us-east-005.backblazeb2.com/autogpt-ko.html](https://autogpt-blog.s3.us-east-005.backblazeb2.com/autogpt-ko.html)
